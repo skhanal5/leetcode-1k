@@ -1,10 +1,8 @@
 # Leetcode-1K
 
 ## About
----
 This is an Obsidian Vault with my notes as I solve each problem. Some solutions are included if needed.
 ## Table of Contents
-----
 1. [[Arrays & Hashing]]
 2. Two Pointers
 3. Stack
