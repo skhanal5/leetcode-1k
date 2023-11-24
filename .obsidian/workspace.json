@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays & Hashing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays & Hashing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays & Hashing.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "c8f23645f2f35ee9",
   "lastOpenFiles": [
-    "README.md",
     "Arrays & Hashing.md",
+    "README.md",
     "Leetcode-1K.md",
     "leetcode-1k"
   ]
