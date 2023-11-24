@@ -2,7 +2,7 @@
 ---
 ## Table of Contents
 
-1. Arrays & Hashing
+1. [[Arrays & Hashing]]
 2. Two Pointers
 3. Stack
 4. Binary Search
