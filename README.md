@@ -1,6 +1,4 @@
----
-
----
+# Leetcode-1K
 ---
 ## Table of Contents
 
