@@ -4,7 +4,7 @@
 This is an Obsidian Vault with my notes as I solve each problem. Some solutions are included if needed. View this repository in Obsidian if you want to follow the notes on a pattern by pattern basis.
 ## Table of Contents
 1. [[Arrays & Hashing]]
-2. Two Pointers
+2. [[Two Pointers]]
 3. Stack
 4. Binary Search
 5. Sliding Window
